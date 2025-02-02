@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🌱 I’m currently studying a Bachelors Degree in Game Development (Game Design)
 <!--
 **The-DoctorTM/The-DoctorTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
